@@ -1,2 +1,4 @@
 name: Dr. Rafael Luque, Exoplanet Hunter
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
